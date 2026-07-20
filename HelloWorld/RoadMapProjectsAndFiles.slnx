@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SecondProject.PetFeeder/SecondProject.PetFeeder.csproj" />
+  <Project Path="FirstProject.HelloWorld.csproj" />
+</Solution>
